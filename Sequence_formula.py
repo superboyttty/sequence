@@ -1,5 +1,5 @@
 """
-Name: Mahmud atiba
+Name: Mahmud
 Program: Name/ Version: sequence/version 1 
 Description: The program analyzes the given numbers to determine if it’s an linear or quadratic sequence.
       Once the sequence type is identified, the program can find the nth term of the sequence you want. 
